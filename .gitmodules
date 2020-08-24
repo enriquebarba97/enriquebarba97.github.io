@@ -1,0 +1,3 @@
+[submodule "trivia-webapp"]
+	path = trivia-webapp
+	url = https://github.com/enriquebarba97/trivia-webapp.git
