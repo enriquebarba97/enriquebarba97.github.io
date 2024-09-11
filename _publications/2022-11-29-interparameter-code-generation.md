@@ -6,7 +6,7 @@ permalink: /publication/2022-11-29-interparameter-code-generation
 excerpt: 'Automatic code generation for APIs considering inter-parameter dependencies.'
 date: 2022-11-29
 venue: 'Service-Oriented Computing – ICSOC 2022 Workshops'
-paperurl: 'https://link-springer-com.tudelft.idm.oclc.org/chapter/10.1007/978-3-031-26507-5_21'
+paperurl: 'https://ebarba.com/files/ICSOC_Automated_Code_Generation_Tool_for_Inter_parameters_in_Web_APIs.pdf'
 citation: 'Barakat, S., Barba-Roque, E., Sánchez, A.B., Segura, S. (2022). &quot;Secification-Driven Code Generation for Inter-parameter Dependencies in Web APIs.&quot; <i>Service-Oriented Computing – ICSOC 2022 Workshops</i>.'
 ---
 
