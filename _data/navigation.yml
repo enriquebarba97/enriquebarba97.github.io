@@ -10,6 +10,9 @@ main:
 
   - title: "Talks"
     url: /talks/    
+  
+  - title: "Annotated Bibliography"
+    url: /bibliography/
 
   # - title: "Teaching"
   #   url: /teaching/    
