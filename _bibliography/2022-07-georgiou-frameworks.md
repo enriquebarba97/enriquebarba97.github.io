@@ -29,6 +29,13 @@ bibtex: |-
 tags:
   - DL frameworks
   - Energy monitoring
-# annotation: ""
+annotation: |-
+  The main contribution of the paper is to compare the energy efficiency of TensorFlow and PyTorch, two popular Python frameworks for Deep Learning. To do so, the authors run multiple benchmarks on both frameworks using the `DeepLearningExamples` collection from NVIDIA, which includes multiple models implemented in both frameworks. They select different models that cover the tasks of Recommender Systems, Natural Language Processing, and Computer Vision.
+
+  The experiments are run using an execution framework that guarantees the validity of the results and facilitates reproducibility. The framework sets up the environment automatically and runs the experiments multiple times, measuring the accuracy and energy consumption (using Intel RAPL and NVIDIA SMI) of the models for both DL frameworks. With these experiments, the paper aims to answer which framework is more energy efficient, and more accurate and which parts of their API are less runtime efficient.
+
+  In terms of accuracy, both frameworks obtain comparable results, and there is not a large significant difference. In terms of energy efficiency, the results obtained are very varied. In the training phase, TensorFlow is more efficient than PyTorch in training a model for Recommender Systems, being 2.1x faster and 1.5x more energy efficient. A similar trend is observed in the Computer Vision models, being 1.2x, 1.1x, and 3.1x more energy efficient for the three models tested. For NLP PyTorch outperforms TensorFlow, using 1.5x and 2.8x less energy for the transformer-based models tested. However, these results do not translate to inference, where PyTorch outperforms TensorFlow for all but two models. These results make it hard to extrapolate general recommendations for developers.
+
+  To investigate the runtime performance of the different parts of the API, the authors use `cprofile` to trace the number of calls to the different functions in the framework, as well as their runtime. They find that, in most cases, there is a single specific function in both frameworks that takes the majority of the training runtime (`autograd.backward` for PyTorch and `Session.run` for TensorFlow). These are interesting results since they can lead the developers of both frameworks to possible points of improvement. The same execution and tracing framework proposed can even be applied to other frameworks and models to study their performance.
 show-thoughts: false
 ---

@@ -5,10 +5,7 @@ author_profile: true
 layout: single
 ---
 
-Academic publications that study environmentally sustainable artificial intelligence – **Green AI**.
-In particular, this bibliography focus on research that aims at making the development of AI systems more friendly to the environment.
-
-Contributions are welcome! If you have suggestions for other readings consider sending a pull request or creating an issue in the [Github repository][github-repo]!  😉
+I will be posting the papers around Green AI and Sustainable Machine Learning that I read and found interesting, with some notes on their contributions and some thoughts from myself.
 
 # Papers
 
@@ -41,6 +38,3 @@ Contributions are welcome! If you have suggestions for other readings consider s
 {% endif -%}
 
 {% endfor %}
-
-
-[github-repo]: https://github.com/luiscruz/green-ai
