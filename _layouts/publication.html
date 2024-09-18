@@ -67,12 +67,12 @@ layout: splash
 <h3 class="text-divider" align="center">Annotation</h3>
 <div align="justify">{{page.annotation | markdownify}}</div>
 {% unless page.thoughts and page.show-thoughts %}
-<div class="text-divider"> 🌿 </div>
+<!-- <div class="text-divider"> 🌿 </div> -->
 {% endunless %}
 {% endif %}
 
 {% if page.thoughts and page.show-thoughts %}
 <h3 class="text-divider" align="center">Thoughts</h3>
 <div align="justify">{{page.thoughts | markdownify}}</div>
-<div class="text-divider"> 🌿 </div>
+<!-- <div class="text-divider"> 🌿 </div> -->
 {% endif %}
