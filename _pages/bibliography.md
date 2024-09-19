@@ -7,6 +7,8 @@ layout: single
 
 I will be posting the papers around Green AI and Sustainable Machine Learning that I read and found interesting, with some notes on their contributions and some thoughts from myself.
 
+This bibliography is part of my PhD program on Green AI with [Luís Cruz](https://luiscruz.github.io/) at TU Delft, where I'll be working in the [SELF Lab](https://www.tudelft.nl/ai/self-lab)for medical IoT edge devices.
+
 # Papers
 
 {% for paper in site.bibliography reversed%}
