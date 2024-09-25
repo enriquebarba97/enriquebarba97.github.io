@@ -4,7 +4,7 @@ layout: splash
 <div class='container'>
 <h1> Publications </h1>
 {%if page.image %}
-<img class="publication-img" src="{{'/img/' | append: page.image | relative_url}}" />
+<img class="publication-img" src="{{'/images/' | append: page.image | relative_url}}" />
 {% endif %}
 <h2> {{page.title}} </h2>
 <p>{%for tag in page.tags %}
