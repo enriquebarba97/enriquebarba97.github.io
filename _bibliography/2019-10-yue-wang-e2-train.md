@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Yue Wang, Ziyu Jiang, Xiaohan Chen, Pengfei Xu, Yang Zhao, Yingyan Lin, Zhangyang Wang
 journal: "NIPS"
 title: "E2-Train: Training State-of-the-art CNNs with Over 80% Energy Savings"

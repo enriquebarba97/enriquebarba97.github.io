@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Roberto Verdecchia, June Sallou, Luís Cruz
 journal: WIDM
 title: "A systematic review of Green AI"

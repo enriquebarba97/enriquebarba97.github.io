@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Heli Järvenpää, Patricia Lago, Justus Bogner, Grace Lewis, Henry Muccini, Ipek Ozkaya
 journal: ICSE-SEIS
 title: "A Synthesis of Green Architectural Tactics for ML-Enabled Systems"

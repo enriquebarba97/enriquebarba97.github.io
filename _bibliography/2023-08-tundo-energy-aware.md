@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Alessandro Tundo, Marco Mobilio, Shashikant Ilager, Ivona Brandić, Ezio Bartocci, Leonardo Mariani
 journal: ASE
 title: "An Energy-Aware Approach to Design Self-Adaptive AI-based Applications on the Edge"

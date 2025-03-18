@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Qingqing Cao, Yash Kumar Lal, Harsh Trivedi, Aruna Balasubramanian, Niranjan Balasubramanian
 journal: IJCNLP
 title: "IrEne: Interpretable Energy Prediction for Transformers"

@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Stefanos Georgiou, Maria Kechagia, Tushar Sharma, Federica Sarro, Ying Zou
 journal: ICSE
 title: "Green AI: do deep learning frameworks have different costs?"

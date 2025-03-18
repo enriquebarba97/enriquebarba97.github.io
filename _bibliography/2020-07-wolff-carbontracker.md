@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Lasse F. Wolff Anthony, Benjamin Kanding, Raghavendra Selvan
 journal: Arxiv
 title: "Carbontracker: Tracking and Predicting the Carbon Footprint of Training Deep Learning Models"

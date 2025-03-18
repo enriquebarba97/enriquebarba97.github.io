@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Eva García-Martín, Crefeda Faviola Rodrigues, Graham Riley, Håkan Grahn
 journal: Journal of Parallel and Distributed Computing
 title: "Estimation of energy consumption in machine learning"

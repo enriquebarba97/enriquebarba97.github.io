@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Mohit Kumar, Xingzhou Zhang, Liangkai Liu, Yifan Wang, Weisong Shi
 journal: IPDPSW
 title: "Energy-Efficient Machine Learning on the Edges"

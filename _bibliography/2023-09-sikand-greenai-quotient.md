@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Samarth Sikand, Vibhu Saujanya Sharma, Vikrant Kaulgud, Sanjay Podder
 journal: ASE
 title: "Green AI Quotient: Assessing Greenness of AI-based software and the way forward"

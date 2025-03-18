@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Tim Yarally, Luís Cruz, Daniel Feitosa, June Sallou, and Arie van Deursen
 journal: CAIN
 title: "Uncovering Energy-Efficient Practices in Deep Learning Training: Preliminary Steps Towards Green AI"

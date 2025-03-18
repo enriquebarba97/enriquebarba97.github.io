@@ -1,5 +1,4 @@
 ---
-layout: publication
 author: Timur Babakol, Yu David Liu
 journal: ICSE
 title: "Tensor-Aware Energy Accounting"
