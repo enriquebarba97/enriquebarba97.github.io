@@ -1,5 +1,10 @@
 ---
 title: "Specification-Driven Code Generation for Inter-parameter Dependencies in Web APIs"
+authors:
+    - Saman Barakat
+    - Enrique Barba Roque
+    - Ana Belén Sánchez
+    - Sergio Segura
 collection: publications
 category: conferences
 permalink: /publication/2022-11-29-interparameter-code-generation

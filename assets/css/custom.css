@@ -32,3 +32,12 @@ figure.highlight {
     font-size: 10pt;
     white-space: nowrap;
 }
+
+.award-badge{
+    border-radius: 20px;
+    padding: 2px 6px;
+    color:white;
+    background-color: #337ab7;
+    font-size: 12pt;
+    white-space: nowrap;
+}
