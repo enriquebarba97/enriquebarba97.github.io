@@ -8,7 +8,7 @@ collection: publications
 category: conferences
 permalink: /publication/2025-05-02-energy-vampires
 excerpt: 'Energy debugging methodology for identifying and isolating energy consumption hotspots in software systems, with Alpine consuming up to 20.2% more power than Ubuntu in certain operations.'
-date: 2025-03-18
+date: 2025-03-17
 venue: 'International Conference on Software Engineering, Ottawa, Canada'
 award: 'ACM SIGSOFT Distinguished Paper Award'
 paperurl: 'https://arxiv.org/abs/2412.10063'
