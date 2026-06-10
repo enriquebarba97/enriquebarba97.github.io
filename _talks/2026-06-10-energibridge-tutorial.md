@@ -8,7 +8,7 @@ type: "Tutorial"
 talk_type: "Conference Tutorial"
 permalink: /talks/2026-06-10-energibridge-tutorial
 venue: "International Conference on Evaluation and Assessment in Software Engineering (EASE) 2026"
-date: 2026-06-08
+date: 2026-06-10
 location: "Glasgow, Scotland"
 ---
 
